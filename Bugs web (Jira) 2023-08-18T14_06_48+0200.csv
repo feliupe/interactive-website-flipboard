@@ -1,4 +1,4 @@
-Issue Type,Issue key,Issue id,Summary,Created,Component/s,Component/s,Label,Labels,Labels,Labels,Labels,Status,Priority,Custom field (Epic Name),Assignee
+Issue Type,Issue key,Issue id,Summary,Created,Component/s,Component/s,Labels,Label,Labels,Labels,Labels,Status,Priority,Custom field (Epic Name),Assignee
 Bug,EW-1168,854920,Smart TV - typo on expired programs and weird date from 1970,2023-08-17 14:04,Smart TV,,,,,,,To Do,2 - High,,
 Bug,EW-1167,854918,Smart tv - issue with the tv-guide when using pointer mode,2023-08-17 14:00,Smart TV,,,,,,,To Do,2 - High,,
 Bug,EW-1166,854917,Smart TV - expiration on archive ,2023-08-17 13:54,Smart TV,,,,,,,To Do,4 - Low,,
