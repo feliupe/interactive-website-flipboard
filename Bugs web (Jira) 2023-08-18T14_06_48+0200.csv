@@ -1,0 +1,539 @@
+Issue Type,Issue key,Issue id,Summary,Created,Component/s,Component/s,Labels,Labels,Labels,Labels,Labels,Status,Priority,Custom field (Epic Name),Assignee
+Bug,EW-1168,854920,Smart TV - typo on expired programs and weird date from 1970,2023-08-17 14:04,Smart TV,,,,,,,To Do,2 - High,,
+Bug,EW-1167,854918,Smart tv - issue with the tv-guide when using pointer mode,2023-08-17 14:00,Smart TV,,,,,,,To Do,2 - High,,
+Bug,EW-1166,854917,Smart TV - expiration on archive ,2023-08-17 13:54,Smart TV,,,,,,,To Do,4 - Low,,
+Bug,EW-1164,854902,Smart TV - dash - LG 2019 Start over freezes a lot ,2023-08-17 12:33,Smart TV,,,,,,,To Do,1 - Critical,,
+Bug,EW-1163,854900,Token expired wrong message ,2023-08-17 12:32,Web,,Token,,,,,To Do,3 - Medium,,
+Bug,EW-1161,854890,Smart tV - undefined values in the player overlay (VOD movies),2023-08-17 12:05,Smart TV,,,,,,,To Do,3 - Medium,,
+Bug,EW-1160,854885,Smart TV - progress bar on live tv doesn't update when a new program starts,2023-08-17 11:58,Smart TV,,,,,,,To Do,3 - Medium,,
+Bug,EW-1158,854860,Smart TV - error message is shown,2023-08-17 10:58,Smart TV,,,,,,,To Do,2 - High,,
+Bug,EW-1144,854332,Smart TV - Subtitles icon doesn't work with pointer mode,2023-08-14 12:45,Smart TV,,,,,,,To Do,2 - High,,
+Bug,EW-1143,854305,STV - Channel page - the channels disappear,2023-08-14 11:35,Smart TV,,,,,,,To Do,2 - High,,
+Bug,EW-1141,854235,Smart TV - pointer mode - LG 2023 ,2023-08-14 10:05,,,,,,,,To Do,2 - High,,
+Bug,EW-1140,854115,Smart TV - tv-guide should open on current time and show what is live,2023-08-11 13:40,Smart TV,,,,,,,To Do,2 - High,,
+Bug,EW-1135,854013,Smart TV - Movies - Actors - text is floating out of the boxes,2023-08-10 14:49,Smart TV,,,,,,,To Do,4 - Low,,
+Bug,EW-1134,854011,Smart TV - mine tv-kanaler - channel sorting is wrong,2023-08-10 14:39,Smart TV,,,,,,,To Do,3 - Medium,,
+Bug,EW-1131,854002,Smart TV - recordings - program description is missing on recordings,2023-08-10 14:14,Smart TV,,,,,,,To Do,4 - Low,,
+Bug,EW-1129,853975,Smart TV - Subtitles are not working - can't change language or turn off,2023-08-10 12:05,Smart TV,,,,,,,To Do,2 - High,,
+Bug,EW-1128,853967,Smart TV - recordings are not being deleted,2023-08-10 11:36,Smart TV,,,,,,,To Do,3 - Medium,,
+Bug,EW-1127,853959,Smart TV - Grammar on tv main page - live tv meta data,2023-08-10 11:16,Smart TV,,,,,,,To Do,3 - Medium,,
+Bug,EW-1123,853875,"Smart TV: First sling on 'Series' page should be horizontal, instead of portray. ",2023-08-09 14:50,Smart TV,,,,,,,To Do,3 - Medium,,
+Bug,EW-1121,853863,Smart TV - back button on all pages - icon is too big,2023-08-09 14:16,Smart TV,,,,,,,To Do,4 - Low,,
+Bug,EW-1118,853790,Smart TV - tv-guide - the timeline is moving out of the picture,2023-08-09 10:08,Smart TV,,,,,,,To Do,2 - High,,
+Bug,EW-1117,853737,CC - Dash - Progress bar not showing properly Live TV,2023-08-08 16:17,Chromecast Receiver,,Chromecast-receiver,progressbar,,,,In Progress,3 - Medium,,M93417
+Bug,EW-1116,853734,CC - Dash - Start Over not start from starting,2023-08-08 16:05,Chromecast Receiver,,Chromecast-receiver,StartOver,,,,Won't fix,3 - Medium,,
+Bug,EW-1113,853710,CC - Dash - iPhone - not able to play live TV,2023-08-08 15:05,Chromecast Receiver,,Iphone,livetv,,,,Review,1 - Critical,,M93417
+Bug,EW-1112,853673,Smart TV - Pointer mode - back button is missing for subpages to pagelinks,2023-08-08 14:37,Smart TV,,,,,,,To Do,4 - Low,,
+Bug,EW-1111,853669,Smart TV - Progress bar on live tv is missing live indicator,2023-08-08 14:30,Smart TV,,,,,,,To Do,2 - High,,M93417
+Bug,EW-1108,853643,CC - Dash - Android - not able to play live TV,2023-08-08 13:09,Chromecast Receiver,,andorid,livetv,,,,Review,2 - High,,M93417
+Bug,EW-1107,853642,Smart TV - Loss of focus when device list is shown after renting a movie,2023-08-08 13:07,Smart TV,,,,,,,To Do,2 - High,,
+Bug,EW-1106,853640,Smart TV - recordings - design,2023-08-08 13:04,Smart TV,,,,,,,To Do,3 - Medium,,
+Bug,EW-1105,853630,Web: New NPVR - get a wrong message while recording ,2023-08-08 12:21,Web,,NPVR,,,,,In Progress,3 - Medium,,M88508
+Bug,EW-1104,853621,Smart TV - Dash test,2023-08-08 12:08,Smart TV,,,,,,,To Do,1 - Critical,,M93417
+Bug,EW-1103,853617,Smart TV - Tab with archive and future assests - issues when using magic remote,2023-08-08 11:58,Smart TV,,,,,,,To Do,3 - Medium,,
+Bug,EW-1102,853613,Smart TV - tab with archive and future assets - not able to navigate to Kommer i TV,2023-08-08 11:43,Smart TV,,,,,,,Test Failed,2 - High,,M86720
+Bug,EW-1101,853609,Smart TV - Tab with archive and future assets - -design issue,2023-08-08 11:37,Smart TV,,,,,,,To Do,3 - Medium,,
+Bug,EW-1094,853399,CC - Dash - not able to play recordings from Web and Android phone,2023-08-07 15:14,Chromecast Receiver,,Chromecast,recordings,,,,Review,1 - Critical,,M93417
+Bug,EW-1091,853387,CC - Dash - not able to play live tv,2023-08-07 14:39,Chromecast Receiver,,Chromecast,,,,,Review,1 - Critical,,M93417
+Bug,EW-1090,853386,Smart TV - tv-guide - description of a program has too many characters and is mixed with the tv-guide,2023-08-07 14:35,Smart TV,,,,,,,Done,4 - Low,,M88508
+Bug,EW-1088,853377,Smart TV - design - rental page,2023-08-07 14:29,Smart TV,,,,,,,To Do,4 - Low,,
+Bug,EW-1085,853363,Smart TV - TV-guide is failing,2023-08-07 14:01,Smart TV,,ew:epg,,,,,To Do,1 - Critical,,
+Bug,EW-1082,853288,Web - recording icon is not removed from the epg when you stop a recording,2023-08-07 11:08,Web,,,,,,,Done,3 - Medium,,M93417
+Bug,EW-1080,853264,Web - Breaking playback - concurrency related,2023-08-07 10:39,Web,,,,,,,Done,1 - Critical,,M93417
+Bug,EW-1070,852911,CC: Synopsis and Title do not update inside the browser when binging to the next episode while PIP mode is active,2023-08-03 08:55,,,binge-watching,Chromecast,PIP,Synopsis,,To Do,3 - Medium,,
+Bug,EW-1069,852895,"Web: ""Alle Series"" sling not displaying all series when opening",2023-08-03 08:01,Web,,,,,,,To Do,3 - Medium,,
+Bug,EW-1068,852791,EPG navigation header is not sticky,2023-08-02 11:54,Web,,,,,,,Done,3 - Medium,,M93417
+Bug,EW-1067,852429,Not able to remove devices from device management,2023-07-31 10:08,Web,,,,,,,Done,1 - Critical,,
+Bug,EW-1066,852250,Smart TV - Scrubbing rights  - I am able to scrub in TV3 when I start the program over,2023-07-28 11:19,Smart TV,,,,,,,In Progress,2 - High,,M94083
+Bug,EW-1065,852192,Smart TV - The app is freezing,2023-07-27 15:03,Smart TV,,,,,,,Done,1 - Critical,,M86720
+Bug,EW-1064,852184,Smart TV - pointer mode - stream should not stop when pressing back button on remote while pointer mode is enabled,2023-07-27 13:47,Smart TV,,,,,,,To Do,2 - High,,
+Bug,EW-1063,852183,Smart TV - Pointer mode - player overlay and Mine tv-kanaler,2023-07-27 13:44,Smart TV,,,,,,,To Do,2 - High,,
+Bug,EW-1062,852174,Smart TV - progress on live is missing. ,2023-07-27 13:01,Smart TV,,,,,,,To Do,3 - Medium,,
+Bug,EW-1061,852173,Smart TV - Start over - title of program is not showing and on LG we show Min bio logo on DR1,2023-07-27 12:50,,,,,,,,Done,2 - High,,M86720
+Bug,EW-1060,852172,Smart TV - LG logo - old logo shows first before the new logo. ,2023-07-27 12:42,Smart TV,,,,,,,Done,3 - Medium,,M88508
+Bug,EW-1058,852170,Smart TV - pointer mode in the epg - focus is lost,2023-07-27 12:24,Smart TV,,,,,,,Done,3 - Medium,,M88508
+Bug,EW-1057,852160,Smart TV - app freezes after pressing vis alle on Mest sete på tv,2023-07-27 11:35,Smart TV,,,,,,,Done,1 - Critical,,M86720
+Bug,EW-1056,852159,Smart TV - Pagelinks headlines are all double,2023-07-27 11:29,Smart TV,,,,,,,Done,2 - High,,M86720
+Bug,EW-1055,852156,Smart TV - Months are shown in english,2023-07-27 11:18,Smart TV,,,,,,,Won't fix,4 - Low,,
+Bug,EW-1038,852065,Web - chromecast - binge doesn't work,2023-07-26 10:55,Web,,,,,,,Done,2 - High,,A72562
+Bug,EW-1037,852064,Web - Chromecast - series episode names doesn't update on the tv screen,2023-07-26 10:52,Web,,,,,,,Done,1 - Critical,,M93417
+Bug,EW-1036,852063,Web - Chrome macOS - Chromecast - no picture only sound,2023-07-26 10:48,Web,,Chromecast,,,,,Won't fix,2 - High,,M93417
+Bug,EW-1035,852015,Web - Windows - Chrome - No data in conviva,2023-07-25 15:00,Web,,,,,,,To Do,2 - High,,
+Bug,EW-1034,852007,Web - live channel picker - programs doesn't update ,2023-07-25 13:50,Web,,,,,,,Done,3 - Medium,,A72562
+Bug,EW-1033,851976,"Web Firefox - MacOS - If a program has a recording set, it gets a very big recording icon all over the synopsis",2023-07-25 11:03,Web,,,,,,,Done,2 - High,,A72562
+Bug,EW-1031,851947,Web - device management is having weird behaviour,2023-07-25 09:29,Web,,,,,,,Done,2 - High,,M93417
+Bug,EW-1030,851943,Web -TV2 ude is having the wrong message and archive can't be played,2023-07-25 09:15,Web,,,,,,,Won't fix,1 - Critical,,M93417
+Bug,EW-1029,851896,Web - Conviva - archive is shown as SVOD should be Archive in content type,2023-07-24 15:28,Web,,,,,,,Won't fix,2 - High,,
+Bug,EW-1028,851893,Web - Search doesn't work when searching for actor,2023-07-24 14:47,Web,,,,,,,To Do,3 - Medium,,
+Bug,EW-1027,851892,Web - archive details - language is written in english instead of danish,2023-07-24 14:41,Web,,,,,,,To Do,4 - Low,,
+Bug,EW-1026,851891,Web - Pagelink rented movies doesn't work - the page has been moved,2023-07-24 14:30,Web,,,,,,,Done,2 - High,,A72562
+Bug,EW-1025,851890,Web - There is a typo in the rental pop-up,2023-07-24 14:22,Web,,,,,,,Done,4 - Low,,A72562
+Bug,EW-1024,851886,Web - Login is not saved,2023-07-24 14:06,Web,,,,,,,Won't fix,2 - High,,
+Bug,EW-1023,851872,Web - Channel sorting is not applied to Mine tv-kanaler,2023-07-24 13:10,Web,,,,,,,Won't fix,3 - Medium,,M88508
+Bug,EW-1022,851870,CC: Chromecast not receiving token and streamURL from the new Fallback endpoint,2023-07-24 13:03,Chromecast Receiver,,Chromecast-receiver,,,,,To Do,3 - Medium,,
+Bug,EW-1021,851866,Web - YouSee Premiere is not working,2023-07-24 12:50,Web,,,,,,,Done,3 - Medium,,A72562
+Bug,EW-1020,851860,Web: Binge - if next episode have a bookmark it should still start playing from the beginning,2023-07-24 12:29,Web,,,,,,,Test Failed,3 - Medium,,
+Bug,EW-1019,851857,Web - Binge next episode of a series doesn't start automatically,2023-07-24 12:17,Web,,,,,,,Done,2 - High,,A72562
+Bug,EW-1009,849657,STV - scrubbing rights - Maintain earned scrubbing rights is failing,2023-07-11 13:41,Smart TV,,,,,,,In Progress,2 - High,,M94083
+Bug,EW-1006,849649,STV - start over is not allowed on all channels or programs,2023-07-11 13:14,Smart TV,,,,,,,Done,2 - High,,M94083
+Bug,EW-1004,849641,Smart TV: Pointer mode - When selecting search the design looks weird - doesn't happen without pointermode,2023-07-11 12:48,Smart TV,,,,,,,To Do,4 - Low,,
+Bug,EW-1003,849638,Smart TV: Pointer mode - disabling pointermode gives problem with menu and focus,2023-07-11 12:43,Smart TV,,,,,,,Done,3 - Medium,,M88508
+Bug,EW-1002,849629,Smart TV: Issues with fetching recordings - spinner on recording icon,2023-07-11 12:24,Smart TV,,,,,,,Done,2 - High,,M94083
+Bug,EW-1001,849626,STV - Error when entering live synopsis,2023-07-11 12:21,Smart TV,,,,,,,Done,1 - Critical,,M94083
+Bug,EW-1000,849621,Smart TV: Pointer mode - search doesn't close automatically when using pointer mode,2023-07-11 12:13,Smart TV,,,,,,,To Do,4 - Low,,
+Bug,EW-999,849600,Smart TV: Pointer mode - player overlay ,2023-07-11 11:24,Smart TV,,,,,,,Done,2 - High,,M101317
+Bug,EW-998,849597,Smart TV: Pointer mode - not able to press buttons on synopsis,2023-07-11 11:16,Smart TV,,,,,,,Done,2 - High,,M101317
+Bug,EW-997,849562,Smart TV: Pointer mode - can't use pointer mode to scroll down in the search results,2023-07-11 10:00,Smart TV,,,,,,,Done,3 - Medium,,M86720
+Bug,EW-995,849517,Smart TV: Pointer mode doesn't work on pagelinks,2023-07-11 09:26,Smart TV,,,,,,,Done,2 - High,,M86720
+Bug,EW-993,849425,Smart TV: Pagelinks on tv main page doesn't follow design and spacing is wrong,2023-07-10 14:27,Smart TV,,,,,,,Done,3 - Medium,,M94083
+Bug,EW-992,849415,Smart TV: Text is cut off on the last asset in all categories when you select vis alle,2023-07-10 14:14,Smart TV,,,,,,,Done,3 - Medium,,M88508
+Bug,EW-991,849411,STV - not able to read the entire program description (meta data),2023-07-10 14:08,Smart TV,,,,,,,Done,3 - Medium,,M94083
+Bug,EW-990,849408,STV - endless spinner when trying to open the same synopsis twice,2023-07-10 14:06,Smart TV,,,,,,,Done,1 - Critical,,M94083
+Bug,EW-988,849392,Smart TV: Channel page - last asset on the channel page is cut off,2023-07-10 13:42,Smart TV,,,,,,,Done,3 - Medium,,M88508
+Bug,EW-987,849378,STV - tv-guide - timeline is placed on top of the logos sometime,2023-07-10 13:15,Smart TV,,,,,,,Won't fix,3 - Medium,,
+Bug,EW-986,849374,Smart TV: tv-guide - user should be able to navigate 7 days forward and 7 days back in the tv-guide,2023-07-10 13:12,Smart TV,,,,,,,Won't fix,2 - High,,M88508
+Bug,EW-985,849342,Smart TV: Recordings view on my page - when navigating back the app freezes,2023-07-10 11:36,Smart TV,,,,,,,Done,1 - Critical,,M88508
+Bug,EW-984,849303,STV - typo in the rental message when disabled in configcat,2023-07-10 10:34,Smart TV,,,,,,,Done,4 - Low,,M94083
+Bug,EW-982,849082,Smart TV: Inside section 'Kanaler' the channels/Streaming packages in the button is cut off,2023-07-07 16:01,Smart TV,,,,,,,Done,3 - Medium,,
+Bug,EW-981,849079,Smart TV: Start Over doesn't work for any playback assets,2023-07-07 15:49,Smart TV,,StartOver,,,,,Done,1 - Critical,,M94083
+Bug,EW-980,849078,"Smart TV: ""Se videre"" title-row is missing from 'Min Side'",2023-07-07 15:42,Smart TV,,,,,,,Done,3 - Medium,,
+Bug,EW-979,849045,Smart TV: Rental Movie - When click on back button - synopsis shows button with price,2023-07-07 14:32,Smart TV,,,,,,,Done,3 - Medium,,M94083
+Bug,EW-978,849026,Smart TV: Content rows with less assets will disappear when opening synopsis from larger rows,2023-07-07 13:22,Smart TV,,,,,,,To Do,3 - Medium,,
+Bug,EW-977,848763,Samrt TV: Some sling - vis alle - not show all content,2023-07-06 15:09,Smart TV,,,,,,,Done,3 - Medium,,M88508
+Bug,EW-965,848230,STV - LG - Pointer Mode - not able to scroll on synopsis,2023-07-04 15:06,Smart TV,,,,,,,Done,2 - High,,M101317
+Bug,EW-964,848151,"STV - LG - Pointer Mode -  not able to scroll on TV, serier,kanaler",2023-07-04 12:23,Smart TV,,,,,,,Done,3 - Medium,,M88508
+Bug,EW-962,848089,Smart TV (LG): TV Guide take around 50 second to load first time,2023-07-04 10:19,Smart TV,,,,,,,Done,2 - High,,M101317
+Bug,EW-961,847742,"Web: YouSee Premiere under ""Kanaler"" doesn't work",2023-07-03 09:00,,,,,,,,Done,4 - Low,,M88508
+Bug,EW-958,847285,Smart Tv - New NPVR - Not able to record  ,2023-06-29 14:33,Smart TV,,NPVR,,,,,In Progress,3 - Medium,,M88508
+Bug,EW-955,847263,Smart TV: UI - Player buttons needs alignment,2023-06-29 13:40,Smart TV,,,,,,,Done,2 - High,,M94083
+Bug,EW-951,847143,Channel shop: Dialog missing when users doesn't have access to Channel shop as part of the users subscription,2023-06-29 09:14,Web,,,,,,,To Do,4 - Low,,
+Bug,EW-950,847069,STV - Live TV and archive - channel logo missing- synopsis ,2023-06-28 15:15,Smart TV,,,,,,,Done,3 - Medium,,M94083
+Bug,EW-949,847026,CC: Playback on CC stops/hangs after 3 play attempts,2023-06-28 13:39,Chromecast Receiver,,,,,,,To Do,2 - High,,
+Bug,EW-947,846983,Smart TV: Black screen - when logout and login with other user,2023-06-28 11:08,Smart TV,,,,,,,Done,3 - Medium,,M88508
+Bug,EW-944,846452,Web - Device Management - Cancelling empties device list,2023-06-26 12:46,Web,,,,,,,To Do,4 - Low,,
+Bug,EW-939,845942,CC: Back to live not working,2023-06-22 15:13,Web,,Chromecast,,,,,To Do,2 - High,,
+Bug,EW-936,845774,Rental page link redirects you to 404 page,2023-06-22 09:50,Web,,Rental,,,,,To Do,3 - Medium,,
+Bug,EW-935,845640,STV - conviva tracking box - focus is lost,2023-06-21 15:27,Smart TV,,,,,,,Test,4 - Low,,M94083
+Bug,EW-934,845628,STV - rentals - expired card ,2023-06-21 15:07,Smart TV,,,,,,,Done,2 - High,,M86720
+Bug,EW-933,845617,Smart TV:  Rental movie not showing and spinner when renting the first movie,2023-06-21 14:56,Smart TV,,,,,,,Done,1 - Critical,,M86720
+Bug,EW-932,845587,STV - recordings - dialogue box should be automatically closed,2023-06-21 14:32,Smart TV,,,,,,,Done,4 - Low,,M94083
+Bug,EW-931,845499,STV - search - you can't see all search results for series,2023-06-21 13:41,Smart TV,,,,,,,Done,2 - High,,M94083
+Bug,EW-930,845497,STV - search - deleted search word shows when you select search again,2023-06-21 13:39,Smart TV,,,,,,,Done,4 - Low,,M94083
+Bug,EW-929,845492,STV - series - progress bar is missing on the episode tiles,2023-06-21 13:34,Smart TV,,,,,,,Done,3 - Medium,,M94083
+Bug,EW-928,845477,STV - recordings - future programs should have recording button on the synopsis,2023-06-21 13:23,Smart TV,,,,,,,Done,2 - High,,M94083
+Bug,EW-927,845472,STV - When setting series recordings you get error message on the synopsis in the tv-guide,2023-06-21 13:20,Smart TV,,,,,,,Done,2 - High,,M86720
+Bug,EW-926,845385,CC: Not able to play live tv from børn menu ,2023-06-21 12:08,Web,,Chromecast,LiveTV,,,,To Do,2 - High,,
+Bug,EW-925,845319,STV - Series are missing episode names and episode number,2023-06-21 11:27,Smart TV,,,,,,,Done,2 - High,,M92841
+Bug,EW-924,845312,STV - Endless spinner when trying to play live-tv,2023-06-21 11:20,Smart TV,,,,,,,Done,1 - Critical,,M88508
+Bug,EW-920,845032,CC: Not able to scrub TV2 10 min- while connected to CC,2023-06-20 11:22,Web,,Chromecast,TV2,,,,To Do,2 - High,,
+Bug,EW-918,844730,"Web: Can't play ""test"" channels, spinning wheel ",2023-06-19 13:48,Web,,livetv,,,,,To Do,3 - Medium,,
+Bug,EW-917,844721,Tracking: Fix reporting logic for Nielsen in new web app,2023-06-19 13:42,Web,,"nielsen,",,,,,Done,2 - High,,M101317
+Bug,EW-915,844682,STV - redesign - Promoview is missing in the channel universe,2023-06-19 12:45,,,,,,,,Done,3 - Medium,,M88508
+Bug,EW-911,844142,CC: Live tv to Start-over Problem while Casting from Android mobile to CC and Google/Android TV ,2023-06-16 14:19,Chromecast Receiver,Google/Android  TV,,,,,,To Do,2 - High,,M93417
+Bug,EW-910,844136,Move away from using 12345 as the trigger for debug overlay,2023-06-16 14:01,Smart TV,,,,,,,Done,None,,M101317
+Bug,EW-909,844104,Fix synopsis action titles not mapping correctly,2023-06-16 12:24,Smart TV,,,,,,,Done,None,,M94083
+Bug,EW-908,843933,CC: Start time wrong playing Live Tv ,2023-06-15 16:13,Web,,Dash.js,,,,,To Do,3 - Medium,,
+Bug,EW-906,843533,Player back button exits synopsis,2023-06-14 14:20,Smart TV,,,,,,,Done,None,,A72562
+Bug,EW-904,843426,Smart TV: Device management dialog with no focus after rental,2023-06-14 10:52,Smart TV,Web,ew:rentals,,,,,In Progress,2 - High,,M86720
+Bug,EW-900,842830,Synopsis in fallback mode crashes,2023-06-12 12:09,Web,,,,,,,Done,1 - Critical,,M93417
+Bug,EW-896,841024,Web: Wrong language subtitles shown on VOD ,2023-06-09 13:21,Web,,subtitles,,,,,To Do,2 - High,,
+Bug,EW-893,840872,Smart TV - The app doesn't work when you haven't used it for several hours,2023-06-09 11:19,Smart TV,,,,,,,Test Failed,1 - Critical,,M88508
+Bug,EW-891,840500,Smart TV - Rows disappears in Mest sete på tv,2023-06-08 13:24,Smart TV,,,,,,,Done,1 - Critical,,M93417
+Bug,EW-890,840486,No login page displayed on iPhone browser,2023-06-08 12:45,Web,,login-page,,,,,Done,3 - Medium,,
+Bug,EW-888,840308,Web: Promoview carrousel only rotate once or twice,2023-06-07 13:45,Web,,,,,,,To Do,4 - Low,,
+Bug,EW-887,840274,Web: The images used in search for movies appear to be portrait images stretched to landscape,2023-06-07 12:18,Web,,images,search,,,,To Do,3 - Medium,,
+Bug,EW-885,840267,Web: Season names on VOD series tab bar are in English,2023-06-07 11:49,Web,,serier,,,,,To Do,3 - Medium,,
+Bug,EW-884,840266,Smart TV - My page - Udvalgte kanaler - Viaplay and Cmore is not working correct,2023-06-07 11:47,Smart TV,,,,,,,Done,3 - Medium,,A72562
+Bug,EW-883,840265,"Web: Pausing play can only be done via the ""Pause""-button",2023-06-07 11:46,Web,,Pause,,,,,To Do,3 - Medium,,M93977
+Bug,EW-882,840264,Web: Video doesn't automatically start playing after starting over by scrolling back,2023-06-07 11:42,Web,,progressbar,,,,,To Do,2 - High,,
+Bug,EW-881,840259,Web: Automatic content rows from ODP under DRTV returns 404,2023-06-07 11:34,Web,,,,,,,To Do,3 - Medium,,
+Bug,EW-880,840247,Smart TV: npvr - recording view should be shown in columns,2023-06-07 11:02,Smart TV,,,,,,,Done,3 - Medium,,M88508
+Bug,EW-879,840243,Smart TV: npvr - focus is lost,2023-06-07 10:54,Smart TV,,,,,,,Done,2 - High,,M86720
+Bug,EW-878,840227,Smart TV: tv guide freezes or crashes when navigating around,2023-06-07 10:29,Smart TV,,,,,,,Done,2 - High,,M88508
+Bug,EW-876,840131,CC: Connect to CC screen not able to see in Børn live TV ,2023-06-06 15:41,Web,,Chromecast,,,,,Won't fix,3 - Medium,,
+Bug,EW-875,840120,Smart TV: nPVR - planned recordings should be editable,2023-06-06 15:19,Smart TV,,,,,,,Done,2 - High,,M94083
+Bug,EW-874,840118,Smart TV: npvr - planned recordings - focus is lost,2023-06-06 15:14,Smart TV,,,,,,,Done,2 - High,,M94083
+Bug,EW-867,840010,Smart TV: Lookup npvr flag to show npvr actions,2023-06-06 10:46,Smart TV,Web,NPVR,,,,,Done,3 - Medium,,M86720
+Bug,EW-861,839516,Smart TV: Series - episode description is missing,2023-06-01 14:21,Smart TV,,,,,,,Won't fix,3 - Medium,,
+Bug,EW-860,839470,Smart TV: Series - CTA button has the wrong text,2023-06-01 12:45,Smart TV,,,,,,,Done,4 - Low,,M94083
+Bug,EW-859,839435,Smart TV: Expiration is missing on synopsis for archive programs,2023-06-01 12:07,Smart TV,,,,,,,Won't fix,4 - Low,,
+Bug,EW-858,839379,Smart TV - TV page - rows disappeared after watching archive,2023-06-01 10:54,Smart TV,,,,,,,Done,1 - Critical,,M88508
+Bug,EW-849,839350,Smart TV - TV page freezes after watching live tv,2023-06-01 10:29,Smart TV,,,,,,,Done,1 - Critical,,M88508
+Bug,EW-848,839345,Smart TV - Volume is not working if you connect to bluetooth,2023-06-01 10:18,Smart TV,,,,,,,Done,2 - High,,
+Bug,EW-846,839183,Smart TV: Se videre is not updating unless you quit the app and open it again,2023-05-31 15:20,Smart TV,,,,,,,Done,3 - Medium,,M86720
+Bug,EW-844,839171,Smart TV: Device management - Message is showing after removing device,2023-05-31 14:45,Smart TV,,,,,,,Done,4 - Low,,M88508
+Bug,EW-843,839167,Smart TV: Series - player overlay shows wrong season and episode,2023-05-31 14:39,Smart TV,,,,,,,Done,3 - Medium,,M94083
+Bug,EW-841,839156,Smart TV - Not able to quit live tv after using go to live button,2023-05-31 14:14,Smart TV,,,,,,,Done,2 - High,,A72562
+Bug,EW-840,839151,Smart TV: Login messages should be aligned,2023-05-31 14:06,Smart TV,,,,,,,Done,4 - Low,,
+Bug,EW-839,839038,Web: After TV-guide page refresh - infinity loading spinner,2023-05-31 09:42,Web,,EPG,,,,,To Do,2 - High,,
+Bug,EW-837,838916,Rental Movie - Black Screen when try to press back from synopsis after renting movie,2023-05-30 13:54,Web,,Rental,,,,,Done,1 - Critical,,M92841
+Bug,EW-836,838801,QA: Sender or iOS issue with ChromeCast,2023-05-30 09:44,Chromecast Receiver,,,,,,,To Do,None,,A72562
+Bug,EW-835,838799,"Web: Starting Playback from ""Se videre"" sling does not start playback from the latest bookmark",2023-05-30 09:41,Web,,Bookmark,minside,,,,To Do,3 - Medium,,
+Bug,EW-834,838794,Web: Auto-binging to next episode exits fullscreen mode and prohibits use of fullscreen mode,2023-05-30 09:34,Web,,binge-watching,Fullscreen,PlayerControls,,,To Do,3 - Medium,,
+Bug,EW-830,838397,Web: Subtitles overlay player controls ,2023-05-26 09:07,Web,,subtitles,,,,,To Do,4 - Low,,
+Bug,EW-804,837924,Web: Keyboard control input reloads stream,2023-05-24 10:57,Web,,PlayerControls,,,,,To Do,4 - Low,,
+Bug,EW-803,837913,Bookmark on nPVR failing and spamming calls t backend,2023-05-24 10:45,Web,,bookmark,nPVR,,,,Done,2 - High,,M93417
+Bug,EW-799,837725,Web: EPG missing recording & favorit icon on timeslots,2023-05-23 13:41,Web,,EPG,,,,,To Do,4 - Low,,
+Bug,EW-798,837720,Web: EPG header is not sticky,2023-05-23 13:37,Web,,EPG,,,,,To Do,3 - Medium,,
+Bug,EW-797,837684,Web: Backscreen after content finishes in PIP mode ,2023-05-23 10:52,Web,,PIP,,,,,To Do,2 - High,,
+Bug,EW-796,837676,Web: PIP player closes when navigating away from synopsis,2023-05-23 10:45,Web,,PIP,,,,,To Do,3 - Medium,,
+Bug,EW-795,837357,After automatically binging to next episode the user can't manually start content,2023-05-22 09:10,Web,,binge-watching,,,,,Done,2 - High,,M93417
+Bug,EW-794,836617,Web: Web app displays the same content across content pages ,2023-05-15 12:44,Web,,Archive,Synopsis-pages,,,,To Do,3 - Medium,,
+Bug,EW-793,836584,Pressing play on episodes play icon in the episodes list does not start playback,2023-05-15 11:12,Web,,Archive,Synopsis,,,,Done,3 - Medium,,M93417
+Bug,EW-792,836579,Not able to see all archive content in synopsis with many episodes,2023-05-15 11:04,Web,,Synopsis,,,,,Done,3 - Medium,,M93417
+Bug,EW-791,836564,Recordings on CC displays wrong runtime (24h),2023-05-15 10:41,Web,,Chromecast-sender,npvr,,,,Done,2 - High,,M93417
+Bug,EW-790,836561,Web: Channel Page thumbnails are very big and blurry,2023-05-15 10:31,Web,,ChannelPage,thumbnails,,,,To Do,4 - Low,,
+Bug,EW-789,836511,Web: Wrong VOD data send to concurrency endpoint,2023-05-15 09:15,Web,,Concurrency,VOD,,,,On hold,3 - Medium,,
+Bug,EW-788,836490,Smart TV: (TV page) Redesign - live icon should be removed from the assets in the first row,2023-05-15 08:51,Smart TV,,,,,,,Done,4 - Low,,M94083
+Bug,EW-787,836464,CC not saving bookmark when changing episode during PIP,2023-05-15 08:19,Web,,bookmark,Chromecast,PIP,,,Done,3 - Medium,,M93417
+Bug,EW-786,836175,Missing progress on Series synopsis episode tiles,2023-05-11 19:56,Web,,Synopsis-pages,,,,,Done,3 - Medium,,M93417
+Bug,EW-782,835860,Web: Binge UI not displaying image,2023-05-10 11:50,Web,,binge-watching,,,,,To Do,4 - Low,,
+Bug,EW-781,835829,CC: When try to play web url in new tab connected to CC and starts episode from begging ,2023-05-10 10:24,Web,,Chromecast,,,,,To Do,2 - High,,
+Bug,EW-780,835671,STV - user is not able to pause VOD or archive,2023-05-09 13:22,Smart TV,,,,,,,Done,1 - Critical,,M94083
+Bug,EW-779,835600,Web: SeTv - Player not open automatically  ,2023-05-09 11:40,Web,,Se-tv,,,,,To Do,4 - Low,,
+Bug,EW-778,835594,Channel Picker - Not able to open from start over and archive,2023-05-09 11:24,Web,,Archive,channel_picker,StartOver,,,Done,2 - High,,M92841
+Bug,EW-777,835407,STV - Live tv fails ,2023-05-08 14:17,Smart TV,,,,,,,Done,1 - Critical,,M86720
+Bug,EW-775,835271,Web: Binge view is displayed even when playing the last episode of a series,2023-05-08 09:16,Web,,binge-watching,,,,,To Do,3 - Medium,,
+Bug,EW-774,835268,Web: Binging on some tv shows does not work across seasons,2023-05-08 09:14,Web,,binge-watching,,,,,To Do,3 - Medium,,
+Bug,EW-773,835042,Web: No mouesover text when user hovering over buttons and icons,2023-05-04 16:46,Web,,,,,,,To Do,4 - Low,,M93977
+Bug,EW-772,835041,"Web: When user click the icon in Hamburger menu, the page should update",2023-05-04 16:39,Web,,,,,,,To Do,3 - Medium,,
+Bug,EW-771,835003,Web: Can't delete single recording,2023-05-04 15:49,Web,,nPVR,recording,,,,To Do,3 - Medium,,
+Bug,EW-770,835002,Web: Binging series content while in PIP breaks the player,2023-05-04 15:47,Web,,binge-watching,PIP,,,,To Do,3 - Medium,,
+Bug,EW-769,834649,STV - live programs - remaining time left is not updating or is wrong,2023-05-03 11:34,Smart TV,,,,,,,Done,2 - High,,A72562
+Bug,EW-768,834365,STV - Go to live button in the player is not working,2023-05-02 11:48,Smart TV,,,,,,,Done,2 - High,,M86720
+Bug,EW-767,834360,STV - assets are showing wrong time on live channels and then no programs can't be played,2023-05-02 11:36,Smart TV,,,,,,,Done,1 - Critical,,M86720
+Bug,EW-766,834322,STV - error is shown when trying to open synopsis on series or my page,2023-05-02 10:12,Smart TV,,,,,,,Done,1 - Critical,,M86720
+Bug,EW-765,834311,STV - login screen - null error when entering wrong username or password,2023-05-02 10:00,Smart TV,,,,,,,Done,2 - High,,M88508
+Bug,EW-764,833435,Smart TV: Live tv - Live tv should start playing directly in some scenarios,2023-04-27 12:16,Smart TV,,,,,,,To Do,4 - Low,,
+Bug,EW-762,833185,STV - device management - error when trying to play live after removing device from list,2023-04-26 11:54,Smart TV,,,,,,,Done,2 - High,,M94083
+Bug,EW-761,833127,Smart TV: Player - Info button sends the user back to synopsis,2023-04-26 09:53,Smart TV,,,,,,,Won't fix,4 - Low,,A72562
+Bug,EW-760,833125,Smart TV: Series - season selector won't show on Samsung 19,2023-04-26 09:47,Smart TV,,,,,,,Done,1 - Critical,,M86720
+Bug,EW-759,832993,Channel page - Channel sorting makes the app freeze,2023-04-25 13:15,Smart TV,,,,,,,Done,2 - High,,M86720
+Bug,EW-758,832974,"STV - If you log out of the app, you are not able to log in again",2023-04-25 11:51,Smart TV,,,,,,,Done,2 - High,,M88508
+Bug,EW-757,832964,EPG - Not able to see Pop-up synopsis on hovering on container ,2023-04-25 11:13,Web,,EPG,,,,,Won't fix,3 - Medium,,
+Bug,EW-756,832946,TV2 Ude - Not able to close message pop up using X button,2023-04-25 10:16,Web,,tv2ude,,,,,Done,2 - High,,M88508
+Bug,EW-755,832923,Live TV - While playing strat over and live program ends starts new live program ,2023-04-25 09:31,Web,,livetv,StartOver,,,,Done,1 - Critical,,M93417
+Bug,EW-754,832450,Smart TV: Device management - Time is misisng,2023-04-24 14:41,Smart TV,,,,,,,Done,4 - Low,,M88508
+Bug,EW-753,832445,Smart TV: Series - not able to enter synopsis for some series,2023-04-24 14:32,Smart TV,,,,,,,Done,2 - High,,M86720
+Bug,EW-752,832376,Smart TV: Start over fails and sound continues in the background,2023-04-24 11:30,Smart TV,,,,,,,Done,2 - High,,M92841
+Bug,EW-751,832214,Channel shop: Not respecting errors from MixTV productSummary,2023-04-24 08:24,Channelshop,Web,,,,,,To Do,3 - Medium,,M88508
+Bug,EW-750,832210,Channel shop: Not respecting shop closed on second click on tv.yousee.dk/indstillinger,2023-04-24 08:17,Channelshop,Web,ChannelShop,,,,,To Do,3 - Medium,,M88508
+Bug,EW-749,832061,Smart TV: Player - Subtitles are wrong on some movies when danish is default,2023-04-21 14:33,Smart TV,,,,,,,Done,3 - Medium,,M94083
+Bug,EW-748,832058,"STV - Search - When the keyboard is open in the search menu, the main menu is showing half",2023-04-21 14:02,Smart TV,,,,,,,Won't fix,4 - Low,,
+Bug,EW-747,832056,Smart TV: Search - Search field should be cleared when you select another page in the menu,2023-04-21 13:54,Smart TV,,,,,,,Done,4 - Low,,M94083
+Bug,EW-746,832026,STV - navigation - First asset in focus can't be opened unless you navigate first,2023-04-21 13:23,Smart TV,,,,,,,Done,3 - Medium,,M86720
+Bug,EW-745,832024,STV - navigation - First asset on the page should be in focus every time you enter a page,2023-04-21 13:18,Smart TV,,,,,,,Done,4 - Low,,M94083
+Bug,EW-744,832014,STV - series - not able to start a series from the series selector,2023-04-21 12:32,Smart TV,,,,,,,Done,1 - Critical,,M86720
+Bug,EW-743,832006,STV - login page - weird behavior,2023-04-21 11:59,Smart TV,,,,,,,Done,3 - Medium,,M88508
+Bug,EW-742,832005,STV - Wrong focus when you open the app,2023-04-21 11:57,Smart TV,,,,,,,Done,4 - Low,,
+Bug,EW-741,832000,STV - opening the app gives endless spinner,2023-04-21 11:41,Smart TV,,,,,,,Done,1 - Critical,,M88508
+Bug,EW-740,831894,STV - login page - text is missing and button is not green,2023-04-21 07:46,Smart TV,,,,,,,Done,2 - High,,M88508
+Bug,EW-739,831829,ChromeCast -stop playback when try to navigate app while playing archive,2023-04-20 13:51,Web,,Archive,Chromecast,PIP,,,Done,3 - Medium,,M93417
+Bug,EW-736,831720,Channel Picker - Not closes automatically when start playback,2023-04-20 10:42,Web,,channel_picker,,,,,Done,4 - Low,,M88508
+Bug,EW-735,831494,Quality Selector not open automatically while open channel picker,2023-04-19 14:51,Web,,channel_picker,qualify_selector,,,,Done,4 - Low,,M88508
+Bug,EW-734,831371,Concurrency - Chrome Cast stream not counting ,2023-04-19 10:36,Web,,Chromecast,Concurrency,,,,Done,2 - High,,M93417
+Bug,EW-733,831078,Chrome Cast -Not able to see selected subtitle in subtitle menu ,2023-04-18 10:28,Web,,Chromecast,subtitles,,,,Done,2 - High,,M93417
+Bug,EW-731,830935,ChromeCast - when try to change episode not play in CC,2023-04-17 15:52,Chromecast Receiver,Web,Chromecast,,,,,Done,1 - Critical,,M93417
+Bug,EW-730,830488,Smart TV: design issues for EPG,2023-04-14 13:36,Smart TV,,,,,,,Test Failed,3 - Medium,,
+Bug,EW-729,830449,STV - EPG - day selector gives endless spinner,2023-04-14 12:39,Smart TV,,,,,,,Done,2 - High,,M88508
+Bug,EW-727,828495,Smart TV: UI on Channel page,2023-03-31 13:12,Smart TV,,,,,,,Won't fix,3 - Medium,,M93417
+Bug,EW-726,828458,Smart TV: Design issues - Setting page,2023-03-31 11:35,Smart TV,,,,,,,To Do,4 - Low,,
+Bug,EW-725,828452,STV - design issues - synopsis,2023-03-31 11:29,Smart TV,,,,,,,Done,2 - High,,M94083
+Bug,EW-724,828451,Smart TV: UX - focus state shouldn't align,2023-03-31 11:26,Smart TV,,,,,,,Done,2 - High,,M101317
+Bug,EW-723,828442,STV - design issues - Search ,2023-03-31 11:21,Smart TV,,,,,,,Done,2 - High,,A72562
+Bug,EW-722,828438,Smart TV: UI adjustment to the side menu,2023-03-31 11:17,Smart TV,,,,,,,Done,3 - Medium,,M94083
+Bug,EW-721,828433,Smart TV: UI adjustment to TV main page,2023-03-31 11:14,Smart TV,,,,,,,Review,2 - High,,M94083
+Bug,EW-720,828425,Smart TV: Design issues - Login page,2023-03-31 11:08,Smart TV,,,,,,,Done,3 - Medium,,M94083
+Bug,EW-719,828254,Web: Programs don't refresh data in live channel slings,2023-03-30 13:07,Web,,Live,slings,,,,To Do,3 - Medium,,
+Bug,EW-718,828251,Player channel list open on series,2023-03-30 13:05,Web,,channel_picker,,,,,Done,2 - High,,
+Bug,EW-717,828246,"Web: Error in TV-synopsis ""Udsendelser"" list",2023-03-30 12:52,Web,,Synopsis,,,,,To Do,4 - Low,,
+Bug,EW-716,828245,Web: Subtitles on player,2023-03-30 12:51,Web,,Regression,,,,,To Do,4 - Low,,
+Bug,EW-715,828244,English words in metadata in tv synopsis,2023-03-30 12:51,Web,,meta-data,,,,,Done,4 - Low,,M88508
+Bug,EW-714,828242,live-tv-player :metadata do not update,2023-03-30 12:51,Web,,meta-data,player,,,,Done,2 - High,,M88508
+Bug,EW-713,828241,Player controls missing,2023-03-30 12:50,Web,,PlayerControls,,,,,Done,1 - Critical,,M93417
+Bug,EW-712,828240,Web: Rentals code input field edges clipped,2023-03-30 12:48,Web,,Rental,,,,,On hold,4 - Low,,
+Bug,EW-711,828238,Binding in PIP mode breaks player,2023-03-30 12:48,Web,,PIP,,,,,Done,1 - Critical,,M93417
+Bug,EW-710,828237,Web: Channel list has green background,2023-03-30 12:47,Web,,Channel_list,,,,,To Do,4 - Low,,
+Bug,EW-709,828236,Web: Synopsis IMDb link,2023-03-30 12:44,Web,,Regression,,,,,To Do,4 - Low,,
+Bug,EW-708,828233,Web: PIP closes when navigating the app,2023-03-30 12:43,Web,,PIP,,,,,To Do,3 - Medium,,
+Bug,EW-707,828232,Synopsis archive list play button,2023-03-30 12:41,Web,,Regression,,,,,Done,2 - High,,M88508
+Bug,EW-706,828231,Web: Doesn't delete all recordings,2023-03-30 12:40,Web,,nPVR,,,,,To Do,3 - Medium,,
+Bug,EW-705,828230,Web: Can't stop single recording from synopsis,2023-03-30 12:39,Web,,nPVR,,,,,On hold,3 - Medium,,
+Bug,EW-704,828224,Rentals. On terms and condition link click - black screen,2023-03-30 12:30,Web,,Regression,,,,,Done,1 - Critical,,M93417
+Bug,EW-703,828216,Device management -> Delete all devices,2023-03-30 12:25,Web,,Regression,,,,,Done,2 - High,,M93417
+Bug,EW-702,828214,Live tv picker stays open,2023-03-30 12:22,Web,,Live-TV,,,,,Done,1 - Critical,,M93417
+Bug,EW-701,828213,Cancel binge jumps 2 episodes,2023-03-30 12:20,Web,,binge-watching,,,,,Done,3 - Medium,,M93417
+Bug,EW-700,828211,Automatic binge to next episode,2023-03-30 12:14,Web,,,,,,,Done,1 - Critical,,M93417
+Bug,EW-698,828070,STV - Not able to use the back button on the channel page when you enter a channel,2023-03-29 15:40,Smart TV,,,,,,,Done,1 - Critical,,M86720
+Bug,EW-697,828058,STV - EPG - Future programs should not have a play button on synopsis,2023-03-29 15:25,Smart TV,,,,,,,Done,2 - High,,A72562
+Bug,EW-696,828056,"STV - View EPG - Button ""Go to live"" is not working",2023-03-29 15:17,Smart TV,,,,,,,Done,2 - High,,M88508
+Bug,EW-695,828051,STV - navigation - focus is missing on the first asset in the first row on tv main page,2023-03-29 15:05,Smart TV,,,,,,,Done,1 - Critical,,M86720
+Bug,EW-694,828002,Smart TV: Menu - The time is wrong and the week day is on english,2023-03-29 14:37,Smart TV,,,,,,,Done,4 - Low,,M101317
+Bug,EW-693,827982,STV - View synopsis - Not able to enter any synopsis on VOD Series,2023-03-29 14:26,Smart TV,,,,,,,Done,1 - Critical,,A72562
+Bug,EW-692,827967,STV - Search for content - not possible to search for actors or instructors,2023-03-29 13:55,Smart TV,,,,,,,Done,3 - Medium,,A72562
+Bug,EW-691,827961,STV - Search for content - error when trying to enter synopsis,2023-03-29 13:49,Smart TV,,,,,,,Done,1 - Critical,,A72562
+Bug,EW-690,827935,STV - Search for content - headline is missing in search results,2023-03-29 13:14,Smart TV,,,,,,,Done,4 - Low,,
+Bug,EW-689,827146,"Web: Pressing CTA on a ""Ikke i arkiv"" synopsis results in an empty pop-up box",2023-03-27 09:06,Web,,popup,Synopsis,,,,On hold,4 - Low,,
+Bug,EW-688,826969,Application logout - http 401 on sts token call,2023-03-24 12:57,Web,,login,,,,,Done,1 - Critical,,M88508
+Bug,EW-687,826631,Web: Short content in the EPG does not display all info on content blocks,2023-03-23 12:52,Web,,EPG,,,,,On hold,4 - Low,,
+Bug,EW-686,826628,CC: Chromecast sender metadata not updating on live change ,2023-03-23 12:49,Web,,Chromecast-sender,meta-data,,,,On hold,4 - Low,,M93417
+Bug,EW-685,826621,Chromecast sender UI displays info wrongly,2023-03-23 12:36,Web,,Chromecast-sender,,,,,Done,4 - Low,,M88508
+Bug,EW-684,826561,Web: Playback auto-plays after removing device from device management list,2023-03-23 11:15,Web,,Device-management,trinity,,,,On hold,3 - Medium,,M93977
+Bug,EW-683,826560,Wrong name in device management list for edge browser,2023-03-23 11:13,Web,,Device-management,trinity,,,,Done,4 - Low,,M94083
+Bug,EW-682,826559,Not calling trinity when playback is started from a loaded synopsis,2023-03-23 11:06,Web,,Device-management,trinity,,,,Done,3 - Medium,,M88508
+Bug,EW-681,826538,Not able to open rental or Recordings UI (see video),2023-03-23 10:44,Web,,Rental,Synopsis-pages,UI,,,Done,2 - High,,M88508
+Bug,EW-679,825380,Web: Fallback playback fails,2023-03-20 11:01,Web,,Fallback,,,,,Won't fix,2 - High,,
+Bug,EW-678,825345,Missing blocked stream Concurrency message,2023-03-20 10:05,Web,,Concurrency,,,,,Done,3 - Medium,,M93417
+Bug,EW-677,825084,Not able to open rental flow from synopsis call to action,2023-03-17 11:33,Web,,Rental,Synopsis,,,,Won't fix,2 - High,,
+Bug,EW-676,825075,PIP does not persist when navigating away from synopsis ,2023-03-17 11:14,Web,,PIP,,,,,Done,3 - Medium,,M93417
+Bug,EW-675,825072,Entering PIP view during binge UI will move the binge UI infront of the PIP,2023-03-17 11:09,Web,,binge-watching,PIP,,,,Done,3 - Medium,,M93417
+Bug,EW-674,823242,Not showing technical description on services,2023-03-10 10:51,Channelshop,,,,,,,Done,None,,M88508
+Bug,EW-658,822777,Rental history menu does not fit rental text ,2023-03-09 09:35,,,Settings,UI,,,,Done,4 - Low,,M94083
+Bug,EW-657,822772,Add/remove credit card button displays white background after pressing it,2023-03-09 09:29,Web,,Settings,,,,,Done,4 - Low,,M94083
+Bug,EW-656,822759,Play button displayed on Upcoming and Rentals thumbnails in search,2023-03-09 09:19,Web,,search,thumbnails,,,,Done,4 - Low,,M94083
+Bug,EW-655,822756,Channel Picker can't start playback,2023-03-09 09:12,Web,,channel_picker,,,,,Done,3 - Medium,,M88508
+Bug,EW-654,822754,Channel Sorting not applied to the application,2023-03-09 09:09,Web,,channel_sorting,,,,,Done,3 - Medium,,M88508
+Bug,EW-653,822717,Start-over on Web does not start the content from the beginning,2023-03-09 08:13,Web,,Player,startforfra,StartOver,,,Done,1 - Critical,,M93417
+Bug,EW-652,822713,No Binge UI on series content,2023-03-09 07:38,Web,,binge-watching,UI,,,,Done,3 - Medium,,M93417
+Bug,EW-651,822712,Payment UI checkboxes display wrongly,2023-03-09 07:25,Web,,Rental,,,,,Done,4 - Low,,M94083
+Bug,EW-650,822220,Playback not starting when clicking play on an episode tile inside a series synopsis ,2023-03-07 13:48,Web,,series,Synopsis,,,,Done,3 - Medium,,M88508
+Bug,EW-649,822167,Player crash on seeking,2023-03-07 12:25,Web,,Crash,Player,scrubbing,seeking,,Done,1 - Critical,,M93417
+Bug,EW-648,822085,Wrong channel in EPG displays upsales message,2023-03-07 09:48,Web,,EPG,tv2ude,,,,Done,3 - Medium,,M88508
+Bug,EW-647,822072,Wrong channels displayed in EPG,2023-03-07 09:40,Web,,Discovery,EPG,,,,Done,3 - Medium,,M88508
+Bug,EW-646,822040,Failing to create/delete recordings,2023-03-07 08:59,Web,,nPVR,recordings,,,,Done,2 - High,,M88508
+Bug,EW-644,821375,CC: Chromecast- playing stream not showing in cinema from some of the provider ,2023-03-03 15:40,Chromecast Receiver,,Chromecast,VOD,,,,To Do,3 - Medium,,M93417
+Bug,EW-643,820653,Web: Not able to play content - Black screen after starting playback,2023-03-01 10:58,Web,,Playback,,,,,On hold,3 - Medium,,M93417
+Bug,EW-642,820464,"Leaving a synopsis results in a ""Hovsa!"" screen",2023-02-28 15:51,Web,,Navigation,Synopsis,,,,Done,3 - Medium,,M88508
+Bug,EW-640,819354,CC: User can scrub in tv2/tv3 with remote while chromecasting from android device. ,2023-02-23 13:51,Chromecast Receiver,,Chromecast-receiver,Scrubbing-Rights,,,,To Do,2 - High,,M93417
+Bug,EW-639,819231,Disconnecting Chromecast playback starts local playback,2023-02-23 09:50,Web,,Chromecast-sender,Playback,,,,Done,2 - High,,M93417
+Bug,EW-638,819175,"""player.offlineDialog.title"" displayed on internet change and do not close player if watching and not buffering",2023-02-23 08:55,Web,,error-message,,,,,Done,3 - Medium,,M86720
+Bug,EW-637,819167,Playback terminates when navigating away from synopsis while PIP is activated,2023-02-23 08:34,Web,,dockable,PIP,,,,Done,3 - Medium,,M88508
+Bug,EW-636,819109,Content row slider resizing,2023-02-22 15:46,,,,,,,,Done,None,,M88508
+Bug,EW-635,818955,Mobile responsivness,2023-02-22 10:12,Web,,,,,,,Done,None,,M94083
+Bug,EW-634,818954,Device managment Safari error,2023-02-22 10:12,Web,,,,,,,Done,None,,M88508
+Bug,EW-633,818952,Player and Synopsis design fix,2023-02-22 10:10,Web,,,,,,,Done,None,,M94083
+Bug,EW-632,818951,Content design fixes,2023-02-22 10:09,Web,,,,,,,Done,None,,M94083
+Bug,EW-631,818950,Login design fixes,2023-02-22 10:04,Web,,,,,,,Done,None,,M94083
+Bug,EW-630,818799,Search: live content result /ikke-fundet,2023-02-21 13:49,,,,,,,,Done,None,,M86720
+Bug,EW-629,818792,Entering EPG synopsis from open universe does not navigate user to it after login,2023-02-21 13:34,Web,,EPG,Login,,,,Done,3 - Medium,,M88508
+Bug,EW-628,818790,Clicking any EPG Live event starts playback,2023-02-21 13:27,Web,,EPG,Live-TV,,,,Won't fix,3 - Medium,,M88508
+Bug,EW-627,818754,App crash during PIP playback,2023-02-21 12:21,Web,,Crash,,,,,Done,3 - Medium,,M88508
+Bug,EW-626,818747,Long loading times and failed calls towards blockbuster,2023-02-21 12:12,Web,,Rental,,,,,Won't fix,3 - Medium,,M86720
+Bug,EW-625,818693,TV2 ude upsale triggered when using recordings,2023-02-21 10:59,Web,,recording,tv2ude,,,,Done,2 - High,,M86720
+Bug,EW-624,818657,Web: Squished resolution in fallback mode (both harmonic & velocix),2023-02-21 09:53,Web,,fallback,,,,,Won't fix,3 - Medium,,
+Bug,EW-616,816779,Progress bar and backdrop not updating on live program change,2023-02-13 10:04,Web,,Chromecast,Player,progressbar,,,Done,3 - Medium,,M93417
+Bug,EW-615,816766,Missing connected device name on CC connection,2023-02-13 09:44,Web,,Chromecast-sender,,,,,Done,4 - Low,,M93417
+Bug,EW-614,816692,Error message contains a todo,2023-02-13 07:18,Web,,error-message,,,,,Done,4 - Low,,M94083
+Bug,EW-613,816277,not able to set recordings on future content,2023-02-09 12:35,Web,,nPVR,,,,,Done,2 - High,,M88508
+Bug,EW-612,816276,Tabs on synopsis are scrolling with the page,2023-02-09 12:22,Web,,Synopsis-pages,,,,,Done,3 - Medium,,M94083
+Bug,EW-611,816244,Channel sorting is not reflected in the SeTV (Channel picker) UI ,2023-02-09 10:56,Web,,channel_picker,channel_sorting,,,,Won't fix,4 - Low,,M94083
+Bug,EW-610,816235,Not able to play content,2023-02-09 10:29,Web,,Playback,,,,,Done,2 - High,,M93417
+Bug,EW-609,816215,Binge menu is not visible unless player controls are visible,2023-02-09 10:02,Web,,binge-watching,PlayerControls,,,,Done,3 - Medium,,M93417
+Bug,EW-608,816200,Player menu colour checkmark is black but should be white,2023-02-09 09:22,Web,,PlayerControls,,,,,Done,4 - Low,,M94083
+Bug,EW-607,816196,"Conviva sessions get wrong status ""EVBS"" ",2023-02-09 09:09,Web,,Conviva,,,,,Done,2 - High,,M94083
+Bug,EW-606,816170,Wrong asset ID on concurrency,2023-02-09 07:56,Web,,Concurrency,,,,,Done,3 - Medium,,M88508
+Bug,EW-605,816162,Device management list empty on first trigger,2023-02-09 07:38,Web,,Device-management,,,,,Done,3 - Medium,,M88508
+Bug,EW-603,815403,STV - EPG - you can't see what is playing live when you open the tv-guide,2023-02-07 12:40,Smart TV,,,,,,,Done,2 - High,,A72562
+Bug,EW-602,815402,STV - Live programs are not updating on the tv main page,2023-02-07 12:32,Smart TV,,,,,,,Done,3 - Medium,,M94083
+Bug,EW-601,815400,STV - Player - Timeline is not updating when new live program is starting,2023-02-07 12:29,Smart TV,,,,,,,Done,3 - Medium,,M94083
+Bug,EW-600,815370,Smart TV: EPG is moving backwards when navigating through the data,2023-02-07 11:31,Smart TV,,,,,,,To Do,3 - Medium,,
+Bug,EW-599,815093,Smart TV: Promoview on all main pages has the wrong format and color,2023-02-06 14:44,Smart TV,,,,,,,Done,4 - Low,,
+Bug,EW-598,815087,STV - Navigation - Can't navigate from the menu to the live tv row,2023-02-06 14:36,Smart TV,,,,,,,Done,2 - High,,M94083
+Bug,EW-596,813933,Episode -  Progress bar time not change,2023-02-01 14:20,Web,,progressbar,,,,,Done,2 - High,,M93417
+Bug,EW-595,813798,EPG not loading data in FF,2023-02-01 10:28,Web,,EPG,,,,,Done,3 - Medium,,M88508
+Bug,EW-594,813770,Lockin page background video not playing,2023-02-01 09:22,Web,,login-page,,,,,Done,4 - Low,,M88508
+Bug,EW-593,812977,CC: Chromecast new player afspiller disappears on episode cell when controller open,2023-01-27 14:32,Chromecast Receiver,,Chromecast,NewPlayer,series,,,To Do,3 - Medium,,M93417
+Bug,EW-591,813562,Message - Focus is missing on action buttons,2023-01-31 12:44,Smart TV,,,,,,,Done,3 - Medium,,M94083
+Bug,EW-590,813558,Login page - Font size is too small,2023-01-31 12:37,Smart TV,,,,,,,Done,4 - Low,,M94083
+Bug,EW-589,813554,Login page - error message when entering wrong username or password,2023-01-31 12:15,Smart TV,,,,,,,Done,2 - High,,M94083
+Bug,EW-587,812300,Channelshop: user can enter mix with blockingOrderId,2023-01-25 10:45,Channelshop,,,,,,,Done,3 - Medium,,M88508
+Bug,EW-585,811455,Velocix on Samsung 19,2023-01-23 11:01,Smart TV,,,,,,,Done,1 - Critical,,M88508
+Bug,EW-584,811127,Merge app design fixes,2023-01-20 13:46,Web,,,,,,,Done,None,,M86720
+Bug,EW-577,809894,In-housing - subtitles on vod is cut off,2023-01-16 14:50,Smart TV,,,,,,,Done,1 - Critical,,A72562
+Bug,EW-576,808602,CC: Chromecast Stream sending 0 time progressbar after getting concurrency message ,2023-01-11 14:41,Chromecast Receiver,,Chromecast,progressbar,,,,To Do,3 - Medium,,M93417
+Bug,EW-575,808598,Channelshop new design - logos not showing in footer part,2023-01-11 14:31,Web,,ChannelShop,logos,,,,Done,3 - Medium,,M94083
+Bug,EW-572,761994,The logo when within the channel info card is shown wrongly if tile is colored,2022-09-06 21:46,Channelshop,,BS3.0_Defect,ChannelShop,,,,Done,4 - Low,,M88508
+Bug,EW-569,803788,BS 3.0 - Not able to remove channel from particular user ,2022-12-21 13:56,Web,,bland_selv_3.0,,,,,Won't fix,3 - Medium,,M88508
+Bug,EW-567,803777,Channel shop: Mine valgte() go down when select 'Underholdning',2022-12-21 13:38,Channelshop,,,,,,,To Do,4 - Low,,
+Bug,EW-566,803474,CC: iOS casting new series playback stream not showing in cinema,2022-12-20 13:24,Chromecast Receiver,,Chromecast,Film,ios,NewSynopsis,series,To Do,3 - Medium,,
+Bug,EW-564,803149,Not prompting e-mail when adding 3rd party services in the shop as 2.0 customer without e-mail,2022-12-19 12:51,,,,,,,,Done,None,,M88508
+Bug,EW-563,803145,Not going to channel shop from kanaler page. ,2022-12-19 12:39,Web,,ChannelShop,,,,,Done,3 - Medium,,M88508
+Bug,EW-561,802904,Big white round recording icon is displayed in the recording content synopsis,2022-12-18 11:55,Web,,nPVR,,,,,Done,3 - Medium,,M88508
+Bug,EW-560,802903,Recorded content is not playable.,2022-12-18 11:51,Web,,nPVR,,,,,Done,2 - High,,M86720
+Bug,EW-559,802902,Start-Over on live tv is not sending playback to the beginning. ,2022-12-18 11:20,Web,,startforfra,StartOver,,,,Done,2 - High,,M88508
+Bug,EW-558,802900,The TV archive synopsis is not scrolling until played or refresh page. ,2022-12-18 10:56,Web,,Synopsis,Synopsis-pages,,,,Done,2 - High,,M88508
+Bug,EW-557,802863,Error message appear on opening page links. ,2022-12-16 22:48,Web,,pagelink,,,,,Done,3 - Medium,,M88508
+Bug,EW-556,802839,The channel sorting does not applies to Se TV.,2022-12-16 17:02,Web,,channel_sorting,,,,,Done,3 - Medium,,M88508
+Bug,EW-555,802830,No playback on Chrome cast. ,2022-12-16 16:31,Web,,Chromecast,,,,,Done,2 - High,,M88508
+Bug,EW-554,802736,Web is going to full screen while typing F after the user has used F inside the player,2022-12-16 10:59,Web,,Fullscreen,search,,,,Done,3 - Medium,,M88508
+Bug,EW-553,802714,On playing YouSee Premiere from kanaler an error occurred. ,2022-12-16 10:41,Web,,Playback,,,,,Done,3 - Medium,,M86720
+Bug,EW-550,802531,Play content and change the browser size you can see webpage parts are relocated. ,2022-12-15 14:11,Web,,responsive,,,,,Done,2 - High,,M88508
+Bug,EW-549,802522,No Pop-up synopsis on hovering on container in Tv guide. ,2022-12-15 13:55,,,,,,,,Won't fix,None,,
+Bug,EW-548,802513,In TV guide user cannot change date seven days back. ,2022-12-15 13:45,Web,,EPG,,,,,Done,2 - High,,M88508
+Bug,EW-547,802511,No able to click on channels to get extra info,2022-12-15 13:41,Channelshop,,,,,,,Done,None,,M88508
+Bug,EW-546,802507,"No pop up when clicking on ""Du kan ikke skifte pakke""",2022-12-15 13:32,Channelshop,,,,,,,Done,None,,M88508
+Bug,EW-545,802499,The favorite icon is giving an error in TV Channel synopsis.,2022-12-15 13:13,Web,,favorit,,,,,Done,3 - Medium,,M88508
+Bug,EW-544,802479,Binge watch pop up appears but it are not going to next episode. ,2022-12-15 12:49,Web,,binge-watching,,,,,Done,3 - Medium,,M93417
+Bug,EW-543,802473,"Live program change to next program, but progress bar and meta data is not updated. ",2022-12-15 12:43,Web,,meta-data,,,,,Done,3 - Medium,,M93417
+Bug,EW-542,802464,After entering full-screen while playback and user click on the x icon. It does not exit full-screen. ,2022-12-15 12:07,Web,,PlayerControls,,,,,Done,2 - High,,M88508
+Bug,EW-541,802443,In Player the control and channel log do not disappear.,2022-12-15 11:22,Web,,PlayerControls,,,,,Done,2 - High,,M88508
+Bug,EW-540,802428,Web: In player volume cannot be control with up and down arrow keys and green filler is always to the max.. ,2022-12-15 11:04,Web,,PlayerControls,volumes,,,,On hold,4 - Low,,M93417
+Bug,EW-539,802403,"There is no conviva tracking (touchstone, pulse) for new web app ",2022-12-15 10:54,Web,,Conviva,conviva-touchstone,,,,Done,3 - Medium,,M88508
+Bug,EW-538,802355,No Device management list is displayed ,2022-12-15 10:35,Web,,Device-management,,,,,Done,2 - High,,M88508
+Bug,EW-537,802323,No fallback on new web app.,2022-12-15 09:57,Web,,fallback,,,,,Done,1 - Critical,,M88508
+Bug,EW-536,802214,The user can scrub in channels with limited scrubbing TV3 / TV2 (10 min) ,2022-12-14 21:11,Web,,Scrubbing-Rights,,,,,Done,3 - Medium,,M88508
+Bug,EW-534,802193,"On exceeding, the maximum allowed concurrent streams no message appears.  ",2022-12-14 16:49,Web,,Concurrency,,,,,Done,3 - Medium,,M88508
+Bug,EW-533,802152,One screen Concurrency fails ,2022-12-14 15:10,Web,,Concurrency,,,,,Done,3 - Medium,,M88508
+Bug,EW-532,802147,Live channel picker icon is missing.   ,2022-12-14 14:58,Web,,channel_picker,,,,,Done,3 - Medium,,M88508
+Bug,EW-531,802135,"On Husk Mig unchecked, the user is still remember and logged in  ",2022-12-14 14:24,Web,,login-page,,,,,Done,3 - Medium,,M88508
+Bug,EW-525,801523,adding favorite of live Tv asset is returning 400,2022-12-12 12:13,,,,,,,,Done,None,,M88508
+Bug,EW-515,798352,User not able to select episode without starting playback (new synopsis),2022-11-29 12:27,Web,,synopsis,,,,,Done,3 - Medium,,M86720
+Bug,EW-480,796837,Handle PromoView when it's failing,2022-11-22 14:02,Web,,,,,,,Done,None,,M94083
+Bug,EW-478,795558,Chromecast Playback fails when playing from iOS or Android clients using the velocix channel list,2022-11-16 11:19,Web,,Chromecast,Velocix,,,,Won't fix,None,,M93417
+Bug,EW-477,795557,Fallback playback not working when velocix channel list is used,2022-11-16 11:11,Web,,,,,,,Won't fix,2 - High,,M88508
+Bug,EW-474,795051,Web: Fix synchronisation delay in player with selectable subtitles,2022-11-14 15:45,Web,,subtitles,,,,,Won't fix,3 - Medium,,M93417
+Bug,EW-468,794577,User experience infinite spinner when trying to play content from TV pagelink. ,2022-11-11 09:51,,,pagelink,,,,,Done,None,,M86720
+Bug,EW-467,794453,"Web - BS 2.0 new design, text is missing on green button",2022-11-10 14:22,Channelshop,,BS2.0,,,,,Done,4 - Low,,M88508
+Bug,EW-460,788748,"Channel shop: With Chrome (google translate ), users might face a black screen on removing a channel.",2022-10-19 13:04,Channelshop,,ChannelShop,ThirdParty,,,,To Do,4 - Low,,M94083
+Bug,EW-438,788172,"On binging, Extended controller goes to synopsis ",2022-10-17 15:17,,,Extended_controller,,,,,Done,None,,M95164
+Bug,EW-437,788105,Web: Binge view does not pop up on google tv.,2022-10-17 13:37,Chromecast Receiver,,Chromecast-receiver,GoogleTV,,,,To Do,4 - Low,,
+Bug,EW-436,788080,"While casting, Channel played from live channel picker will play on web player not on Chromecast. ",2022-10-17 12:15,,,channel_picker,Chromecast,,,,Done,None,,M95164
+Bug,EW-434,788016,"Web: Playback is not pausing, on pressing space bar in google tv. ",2022-10-17 11:02,Chromecast Receiver,,Chromecast-receiver,GoogleTV,,,,To Do,4 - Low,,
+Bug,EW-430,787369,In docked player while casting if user select another content to play it start playing in web player. ,2022-10-13 12:22,,,Chromecast,docked,,,,Done,None,,M95164
+Bug,EW-429,787087,Recording contents can not be played while casting from Android/iOS,2022-10-12 13:43,,,android,Chromecast,iOS,recording,,Done,2 - High,,M93417
+Bug,EW-426,786929,"User cannot enter the synopsis or play any content from ""TV"" Page links.",2022-10-12 09:25,,,,,,,,Done,None,,M86720
+Bug,EW-425,786642,Docked player disappears but the audio is playing when the new synopsis is opened.,2022-10-11 10:29,,,docked,,,,,Done,None,,M95164
+Bug,EW-423,786196,When fallback is turn-off the users don't revert back.,2022-10-10 11:00,Web,,fallback,,,,,Won't fix,None,,
+Bug,EW-421,785434,CC:  Freeze is experience while casting Live/ startover content. ,2022-10-06 12:36,,,Chromecast,Live-TV,StartOver,,,Done,4 - Low,,
+Bug,EW-419,784362,Dirty redirect to skift.yousee.dk if coming in on redirect,2022-10-03 10:12,,,,,,,,Done,None,,M94083
+Bug,EW-416,767474,The web is connected to CC but it is not playing the content on CC. ,2022-09-27 10:11,Web,,Chromecast,Chromecast-receiver,Chromecast-sender,,,Won't fix,None,,
+Bug,EW-415,766668,Chromecast - concurrency message issue in new receiver ,2022-09-23 14:52,Chromecast Receiver,,Chromecast,Chromecast-receiver,Concurrency,,,Done,1 - Critical,,M93417
+Bug,EW-405,765049,Cast icon does not appear for the first time user need to refresh ,2022-09-19 15:03,,,Chromecast,web,,,,Done,None,,M95164
+Bug,EW-404,765035,Device management is not working on fallback. ,2022-09-19 14:40,Web,,Fallback,,,,,Won't fix,None,,M93417
+Bug,EW-403,764985,Binge in dock mode does not keep the bookmarks and do not update meta data on extended controller.  ,2022-09-19 12:28,,,Chromecast,docked,web,,,Done,None,,M95164
+Bug,EW-402,764975,Binging to wrong asset on casting. ,2022-09-19 11:54,,,,,,,,Done,None,,M93417
+Bug,EW-401,764880,Bookmarks are not updating in the list of series while chrome casting.,2022-09-19 10:19,,,Chromecast,web,,,,Done,None,,M93417
+Bug,EW-400,764872,After binging extended controller not responding and start/end is 00:00 on progress bar.,2022-09-19 10:13,,,binge-watching,Chromecast,web,,,Done,None,,M95164
+Bug,EW-399,764864,When the user clicks in the last 30 sec of a series episode Binge view does not work properly.,2022-09-19 10:05,,,,,,,,Done,None,,M95164
+Bug,EW-396,764283,Chromecast: when playing startover and program ends issue,2022-09-15 12:22,,,Chromecast,StartOver,web,,,Done,None,,M93417
+Bug,EW-392,763635,Bookmark not maintained on watched content while casting.,2022-09-13 14:39,,,bookmark,Chromecast,web,,,Done,None,,M95164
+Bug,EW-391,763500,Device management is not working properly. ,2022-09-13 10:49,,,Device-management,GoogleTV,web,,,Done,None,,M95164
+Bug,EW-390,763271,GoogleTV: The program hangs and Metadata (google tv receiver) is not correct when the live program change.  ,2022-09-12 14:05,Chromecast Receiver,,Chromecast-receiver,GoogleTV,,,,In Progress,3 - Medium,,M93417
+Bug,EW-388,762615,Crash when playing content without EPG data,2022-09-08 14:29,,,Crash,EPG,Live-tv,,,Won't fix,1 - Critical,,
+Bug,EW-384,761914,Not able to delete series or specific recordings on new Synopsis,2022-09-06 13:49,Web,,nPVR,recordings,synopsis,,,Won't fix,None,,
+Bug,EW-370,760935,Viasat Series&Film is visible in 'hurtig adgang' and 'alle kanaler' on Web,2022-09-01 10:17,,,,,,,,Won't fix,None,,M88508
+Bug,EW-369,760597,WEB: Blank page if entering old channelshop from URL,2022-08-31 15:47,,,,,,,,Done,None,,M95164
+Bug,EW-367,760488,WEB: Live channel with no archive should not have favourite icon.,2022-08-31 12:19,,,Favoritter,,,,,Done,None,,
+Bug,EW-366,760138,BlandSelv 2.0: Black screen when entering through Kanaler or min side bland selv entery point,2022-08-30 10:37,,,Bland_Selv,web,,,,Done,None,,M94083
+Bug,EW-363,759180,Web: On stop casting web sender should keep the book mark and start content from the same playback position where receiver playback stop. ,2022-08-25 13:11,,,bookmark,,,,,Done,None,,M95164
+Bug,EW-361,758587,Chrome cast: issue with playback while casting with apps(Android/iOS) fallback mode,2022-08-23 14:57,,,android,Chromecast,fallback,ios,,Done,None,,M93417
+Bug,EW-360,758564,Web: Web does not have chrome-cast icon in fallback,2022-08-23 13:29,,,,,,,,Done,None,,M93417
+Bug,EW-358,758540,"Chromecast: TV 2 can be scrubbed from progress bar in startover, while casting to chromecast and google tv. ",2022-08-23 13:00,,,Chromecast,GoogleTV,progressbar,Scrubbing-Rights,web,Done,None,,M93417
+Bug,EW-356,758167,Chromecast - live tv progress bar didn’t change in restricted scrubbing rule content after start over in tv,2022-08-22 12:15,Web,,progressbar,StartOver,,,,Won't fix,None,,
+Bug,EW-352,757915,Web: If user set live tv on recording and try to watch it in Optagelser. End timestamp is not right.. ,2022-08-19 16:28,,,,,,,,Won't fix,None,,M93417
+Bug,EW-351,757843,Google TV: When user cast live tv program to google tv progress start from the begining of the timestamp.,2022-08-19 13:28,,,GoogleTV,Progress_bar,Timestamps,,,Done,None,,M95164
+Bug,EW-350,757819,"Google TV: The meta data (timestamp, title, next program) is not updating.",2022-08-19 12:51,,,GoogleTV,Timestamps,,,,Done,None,,M95164
+Bug,EW-349,757619,Chromecast: CC is not playing recorded content but Web connect to Chromecast.,2022-08-18 15:04,,,Chromecast,,,,,Done,None,,M93417
+Bug,EW-348,757615,Web: Toggle Padlock icon is not removing the trash bin. ,2022-08-18 15:00,,,,,,,,Won't fix,None,,
+Bug,EW-347,757475,Web: Record only one specific episode in coming up episodes. ,2022-08-18 11:01,,,,,,,,Done,None,,
+Bug,EW-346,757443,Google TV: Scrubbing is possible with remote on TV2 and TV3 archives.,2022-08-18 10:19,,,GoogleTV,Remote,Scrubbing-Rights,,,Done,None,,M95164
+Bug,EW-345,757406,Web: Live progress has delay when switching programs,2022-08-18 09:30,,,,,,,,Done,None,,M93417
+Bug,EW-344,757324,Chromecast is showing total time of content instead of remaining time. ,2022-08-17 15:49,,,,,,,,Done,None,,M93417
+Bug,EW-343,757313, User closes the web tab while casting and reopening the web again.  Expanded controller stay on top of the main pages.,2022-08-17 15:37,,,,,,,,Done,None,,M95164
+Bug,EW-342,757304,Slideshow gets the “klar til cast” message between slides.,2022-08-17 15:16,,,Chromecast-receiver,,,,,Done,None,,M93417
+Bug,EW-341,757301,Progress bar/point start Jumping if user scrub on seek bar in start over/ VOD while casting.,2022-08-17 15:06,,,Chromecast-sender,web,,,,Done,None,,M93417
+Bug,EW-340,757288,Web: Infinite loading spinner in player ,2022-08-17 14:25,,,,,,,,Done,None,,M93417
+Bug,EW-339,757286,Startover progress bar is showing 00:00 on start/end and cannot be scrubbed while casting. ,2022-08-17 14:17,,,,,,,,Done,None,,M93417
+Bug,EW-338,757282,Web: Startover icon is gone next to play button,2022-08-17 14:10,,,,,,,,Done,None,,M93417
+Bug,EW-337,757267,Web: No earned scrubbing rights,2022-08-17 13:41,,,Scrubbing-Rights,web,,,,Won't fix,None,,M93417
+Bug,EW-336,757249,Chromecast : Live tv stream can be paused with google tv remote. ,2022-08-17 13:14,,,GoogleTV,web,,,,Done,None,,M93417
+Bug,EW-335,757028,Web: Live tv progress bar is not filled. ,2022-08-16 16:39,,,Progress_bar,web,,,,Done,None,,M93417
+Bug,EW-334,757022,ChromeCast: No binge view on Google Tv ,2022-08-16 16:13,,,GoogleTV,,,,,Done,None,,M93417
+Bug,EW-333,756994,Web: Channels are not clickable in Kanaler,2022-08-16 15:00,,,Kanaler,web,,,,Done,None,,M94083
+Bug,EW-325,753916,Web: User experience infinity loading and then disconnected from CC on VOD scrubbing. ,2022-08-01 12:51,,,Chromecast,infinite_loading,,,,Done,None,,M95164
+Bug,EW-324,753911,Web: Progress bar is flicking in start over. ,2022-08-01 12:36,,,,,,,,Done,None,,M95164
+Bug,EW-323,753886,Web - Start over content not seekable while casting. ,2022-08-01 11:14,,,Chromecast-sender,progressbar,StartOver,web,,Done,None,,M93417
+Bug,EW-318,752143,Web: Viaplay one concurrency rule fails in some viaplay assets,2022-07-19 11:32,Web,,Concurrency,,,,,Done,None,,
+Bug,EW-315,750639,Chromecast VSF-T loop for content that was removed from EPG,2022-07-12 11:09,,,Chromecast-receiver,,,,,Won't fix,None,,M95164
+Bug,EW-312,743221,UI controls on smart devices,2022-06-28 13:05,Chromecast Receiver,,Chromecast-receiver,GoogleTV,,,,Done,None,,
+Bug,EW-311,743216,Not possible to take over a stream cross device,2022-06-28 12:55,Chromecast Receiver,,Chromecast,Chromecast-receiver,,,,Won't fix,None,,
+Bug,EW-310,743214,Web: While casting Docked Image changes to the navigated content.,2022-06-28 12:53,,,Chromecast,docked,web,,,Done,None,,M95164
+Bug,EW-309,743212,Concurrency not stopping session when disconnecting CC,2022-06-28 12:53,,,,,,,,Done,None,,M93417
+Bug,EW-307,743197, Able to Pause live playback through the google home app,2022-06-28 12:06,,,Chromecast,GoogleHome,ThirdParty,,,Done,None,,
+Bug,EW-306,743196,The web sender loses the ability to scrub after reconnecting,2022-06-28 12:05,Web,,Chromecast-sender,,,,,Done,None,,
+Bug,EW-305,743194,Bookmark not being saved,2022-06-28 11:59,,,,,,,,Done,None,,M93417
+Bug,EW-304,743143,Web: Dock mode is closed when user navigate in the app,2022-06-28 10:32,,,Docker,web,,,,Done,None,,M93417
+Bug,EW-303,742892,CC: Conviva session stuck in wrong state after conecting to chromecast,2022-06-28 08:13,Chromecast Receiver,,Conviva,,,,,To Do,3 - Medium,,
+Bug,EW-302,742703,Concurrency fix: casting 1 stream channels failed on CC,2022-06-27 11:07,,,,,,,,Done,None,,
+Bug,EW-300,740840,Missing images for thumbnails and backdrops ,2022-06-21 08:44,,,ImageScaler,,,,,Done,None,,M88508
+Bug,EW-297,739793,Rental page has to be refreshed before a movie can be watched - using credit card flow,2022-06-16 13:00,,,Rental,,,,,Done,None,,
+Bug,EW-296,739281,CC-receiver - Concurrency not sending stop event when disconnecting CC,2022-06-15 11:39,,,Chromecast-receiver,Concurrency,,,,Done,None,,M93417
+Bug,EW-295,739254,Missing Channel logo on Receiver UI (CC with Google TV),2022-06-15 10:45,,,Chromecast-receiver,GoogleTV,,,,Won't fix,None,,
+Bug,EW-294,739252,CC-Receiver - Possible to scrub in all content using the remote using CC with GoogleTV ,2022-06-15 10:41,,,Chromecast-receiver,GoogleTV,,,,Done,2 - High,,
+Bug,EW-293,739195,CC-receiver - issues connecting the Google Home app to the receiver,2022-06-15 09:51,,,Chromecast,Chromecast-receiver,,,,Won't fix,3 - Medium,,
+Bug,EW-292,738060,CC-receiver - Start-over content does not finish after the live program changes,2022-06-14 13:49,,,Chromecast-receiver,,,,,Done,None,,M93417
+Bug,EW-287,735168,"Web: Subtitle icon is shown while casting for contents which do not have loose subtitles and it has only one ""fra"" option. ",2022-06-07 10:29,,,,,,,,Done,None,,M84098
+Bug,EW-285,733978,Web: Concurrency issues ,2022-06-01 15:13,,,Concurrency,,,,,Done,None,,
+Bug,EW-284,733126,Web: Individual Channels in Channel picker are not updating.,2022-05-30 10:45,,,channel_picker,meta-data,web,,,Done,None,,M86720
+Bug,EW-282,732184,Web: Change in Live tv channel program is not smooth.,2022-05-24 09:56,,,buffer,Live-TV,web,,,Done,None,,M86720
+Bug,EW-281,732173,Web: Channel picker icon spinner in player of nPVR content.  ,2022-05-24 09:48,,,channel_picker,spinner,web,,,Done,None,,M86720
+Bug,EW-280,731852,Web: In udsendelser last episode above Kommende udsendelser is not clickable,2022-05-23 10:39,,,,,,,,Done,None,,M86720
+Bug,EW-279,731560,Web: User can scrub TV3 plus in start-over and arkiv ,2022-05-20 16:55,,,Scrubbing-Rights,web,,,,Done,None,,M86720
+Bug,EW-278,731065,Web: User is getting wrong leasing hours in lejefilm. ,2022-05-19 11:10,,,,,,,,Done,None,,M86720
+Bug,EW-277,730814,Web: Motorsport Tv channel archives are not playing.,2022-05-18 14:16,,,Archive,web,,,,Done,None,,M86108
+Bug,EW-276,730742,Not able to cancel series recording,2022-05-18 12:57,,,nPVR,,,,,Done,3 - Medium,,M95164
+Bug,EW-275,730727,Not able to open synopsis through page links,2022-05-18 12:36,,,pagelink,synopsis,,,,Done,3 - Medium,,M95164
+Bug,EW-274,730700,Channel Picker not updating metadata on live program change,2022-05-18 11:50,,,PlayerControls,,,,,Done,None,,M95164
+Bug,EW-273,730277,Player/synopsis meta data not updating on live program change,2022-05-17 10:06,,,Live-tv,meta-data,,,,Done,3 - Medium,,M95164
+Bug,EW-272,730250,Conviva asset name data wrong when starting content from the main pages,2022-05-17 09:23,,,Conviva,,,,,Won't fix,None,,
+Bug,EW-271,730242,"Conviva Live TV data issue when starting through ""Se TV""/ ""Live i Tv"" List",2022-05-17 09:05,,,Conviva,,,,,Won't fix,3 - Medium,,
+Bug,EW-268,728291,Web: nPVR content on Velocix is not playing anything while Casting. ,2022-05-09 14:50,,,Chromecast,Velocix,web,,,Done,2 - High,,M86720
+Bug,EW-266,725844,Validate concurrency logic,2022-05-04 10:22,,,,,,,,Done,2 - High,,M84098
+Bug,EW-257,721110,Displaying wrong asset ID in concurrency when Chromecasting live tv,2022-04-22 11:20,,,Concurrency,,,,,Done,None,,M84098
+Bug,EW-253,719551,CC: Offset is out of bounds,2022-04-19 10:03,Chromecast Receiver,,Chromecast-receiver,,,,,Won't fix,3 - Medium,,
+Bug,EW-252,719543,Scrubbing on youtv does not work,2022-04-19 09:53,,,Chromecast-receiver,,,,,Done,3 - Medium,,
+Bug,EW-251,719482,CLONE - Web - concurrency playback using barker channel channelID,2022-04-19 08:25,Web,,Concurrency,,,,,Won't fix,4 - Low,,
+Bug,EW-249,718168,Stream does not count towards concurrency when device management is shown,2022-04-08 09:44,,,Concurrency,Device-management,,,,Done,None,,M95164
+Bug,EW-248,718056,"Web: When user clicks on details in DR1 synopsis , Playback started. ",2022-04-07 16:03,,,,,,,,Done,None,,M95164
+Bug,EW-247,718038,Web: In player setting and subtitle option are not selectable.  ,2022-04-07 15:40,,,,,,,,Done,None,,M86720
+Bug,EW-245,717788,New synopsis: Cast icon is not working while playing the any content. ,2022-04-07 10:40,,,Chromecast,Icon,web,,,Done,None,,M86720
+Bug,EW-244,717573,Web: User can play TV2  archive program in new Synopsis.  ,2022-04-06 14:16,,,,,,,,Done,None,,M95164
+Bug,EW-243,717522,WEB: In new synopsis users cannot select between the season because of missing arrow icons.,2022-04-06 12:44,,,Icon,web,,,,Done,None,,M86720
+Bug,EW-241,716970,WEB: In future program synopsis there is Se nu button.,2022-04-05 09:36,,,,,,,,Done,None,,M86720
+Bug,EW-240,716831,WEB: Live tv episode is appearing in Udsendelser i arkiv (#) list. ,2022-04-04 15:55,,,Archive,,,,,Done,None,,M86720
+Bug,EW-213,714681,Wrong text on the rental flow pop-up menu,2022-03-29 10:48,Web,,message,Rental,,,,Done,3 - Medium,,
+Bug,EW-212,714417,Nielsen bug,2022-03-28 16:07,,,,,,,,Done,None,,
+Bug,EW-211,713636,Canceling device management leaves leftover concurrent streams in the backend,2022-03-25 13:28,,,Concurrency,Device-management,,,,Done,3 - Medium,,M95164
+Bug,EW-209,713063,Channel-shop sorting views displays channels without space in-between ,2022-03-24 09:59,,,channelshop,UI,,,,Done,None,,
+Bug,EW-205,712674,CC player controls losing scrubbing rights when binging to next episode,2022-03-23 09:39,,,,,,,,Done,2 - High,,M93417
+Bug,EW-204,712260,Not able to toggle fallback mode,2022-03-22 10:02,,,fallback,,,,,Done,2 - High,,
+Bug,EW-201,711233,Disconnecting from CC receiver does not send a stop event to concurrency,2022-03-17 12:27,,,,,,,,Done,None,,M84098
+Bug,EW-196,705181,Non playable assets,2022-02-24 11:43,,,,,,,,Done,None,,
+Bug,EW-195,703090,Log in issues with multiple users and remind me check box ,2022-02-16 17:53,,,,,,,,Won't fix,None,,M88508
+Bug,EW-182,685306,TV5MONDE- EPG TV guide issue,2021-12-10 15:05,,,EPG,livetv,,,,Done,None,,
+Bug,EW-180,685218,Chromecast handover fails for new concurrency rules of 1 concurrent stream,2021-12-10 12:07,,,Concurrency,,,,,Done,3 - Medium,,M95164
+Bug,EW-176,672765,Make sure apple-app-site-association be accessed,2021-10-28 21:34,,,iOS,tvOS,,,,Done,2 - High,,M86720
+Bug,EW-172,680558,Player: Concurrency dies after casting to CC,2021-11-24 10:40,,,,,,,,Done,None,,
+Bug,EW-169,679376,Synopsis: Error message appear sometime while playing any promo view in TV synopsis ,2021-11-19 14:56,,,Promoview,tv,,,,Done,None,,M84098
+Bug,EW-168,679372,Player: Subtitle issue in Viaplay VOD ,2021-11-19 14:43,,,subtitles,VOD,,,,Done,None,,
+Bug,EW-167,678561,Player: Stuttering subtitles in Windows browsers,2021-11-18 10:31,Web,,subtitles,Windows,,,,Won't fix,None,,M94363
+Bug,EW-161,677197,"After playing VOD and going back to the live channel, no measurement initiated",2021-11-12 12:03,,,,,,,,Done,None,,M90772
+Bug,EW-157,676585,"Play icon won't disappear after play, pause, play (WON'T FIX)",2021-11-10 13:52,,,wontfix,,,,,Done,None,,M90772
+Bug,EW-141,675764,Fix concurrency issue,2021-11-08 14:34,,,,,,,,Done,None,,M90772
+Bug,EW-138,674755,Play button on sidebar is not working for current program (5),2021-11-04 15:33,,,chrome,Firefox,play_button,sidebar,Synopsis,Done,None,,M86720
+Bug,EW-136,674341,Progress bar getting stuck on live program change,2021-11-03 12:59,,,livetv,PlayerControls,progressbar,,,Done,None,,M95164
+Bug,EW-134,674303,RETE - Conviva data miss match  ,2021-11-03 12:16,,,Conviva,,,,,Done,None,,M86720
+Bug,EW-114,672234,Fix Navigation Menu Clickable Area,2021-10-27 13:42,,,,,,,,Done,None,,M86720
+Bug,EW-104,671405,Player: Harmonic subs delay,2021-10-25 15:53,,,Subtitles,,,,,Won't fix,None,,M95164
+Bug,EW-96,649118,Web - bad UI - while connecting to Chrome Cast,2021-08-16 14:54,,,chomecast,UI,,,,Done,None,,M93417
+Bug,EW-90,642735,Chromecast: EBVS loop on series content,2021-07-20 13:50,,,Chromecast,EBVS,Velocix,,,Done,None,,M86108
+Bug,EW-89,622773,Chromecast - Velocix - Stutter on chromecast player,2021-06-04 10:56,,,Chromecast,Chromecast-receiver,,,,Done,None,,M86108
+Bug,EW-88,630777,Chromecast Archive asset start buffering and can't recover,2021-06-22 12:40,,,Archive,Velocix,,,,Done,None,,M86108
+Bug,EW-72,468660,Web - Frontend is doing Double as many requests as is needed due to CORS config,2020-07-09 16:53,,,,,,,,Done,None,,
+Bug,EW-36,359057,Web and iOS are not saving bookmarks from CC sessions,2019-09-13 08:33,,,bookmark,Chromecast,,,,Done,None,,
+Bug,EW-35,358933,Web - CC controller not visible and cc connection menu unresponsive ,2019-09-12 13:42,,,Chromecast,dockable,,,,Done,None,,
+Bug,EW-34,463713,WEB: Change folder structure for player controls,2020-07-01 14:39,,,,,,,,Done,None,,
+Bug,EW-32,581822,Web - memory leak (infinite fragment requests) player crash,2021-03-11 16:43,,,,,,,,Done,None,,
+Bug,EW-31,616828,Web - Subtitle menu available on content without subtitles,2021-05-21 13:41,,,Chromecast-sender,,,,,Done,None,,M84098
+Bug,EW-30,541747,Web - Chromecast content not seek-able after binging to next episode,2020-12-16 11:41,,,Chromecast-sender,,,,,Done,None,,M95164
+Bug,EW-14,670574,Player: Velocix subs positioning issue,2021-10-22 11:45,,,,,,,,Done,1 - Critical,,M90772
